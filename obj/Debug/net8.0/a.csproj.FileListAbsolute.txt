@@ -1,0 +1,15 @@
+/home/sycodes95/personal-projects/dotnet-practice-2/bin/Debug/net8.0/a
+/home/sycodes95/personal-projects/dotnet-practice-2/bin/Debug/net8.0/a.deps.json
+/home/sycodes95/personal-projects/dotnet-practice-2/bin/Debug/net8.0/a.runtimeconfig.json
+/home/sycodes95/personal-projects/dotnet-practice-2/bin/Debug/net8.0/a.dll
+/home/sycodes95/personal-projects/dotnet-practice-2/bin/Debug/net8.0/a.pdb
+/home/sycodes95/personal-projects/dotnet-practice-2/obj/Debug/net8.0/a.GeneratedMSBuildEditorConfig.editorconfig
+/home/sycodes95/personal-projects/dotnet-practice-2/obj/Debug/net8.0/a.AssemblyInfoInputs.cache
+/home/sycodes95/personal-projects/dotnet-practice-2/obj/Debug/net8.0/a.AssemblyInfo.cs
+/home/sycodes95/personal-projects/dotnet-practice-2/obj/Debug/net8.0/a.csproj.CoreCompileInputs.cache
+/home/sycodes95/personal-projects/dotnet-practice-2/obj/Debug/net8.0/a.sourcelink.json
+/home/sycodes95/personal-projects/dotnet-practice-2/obj/Debug/net8.0/a.dll
+/home/sycodes95/personal-projects/dotnet-practice-2/obj/Debug/net8.0/refint/a.dll
+/home/sycodes95/personal-projects/dotnet-practice-2/obj/Debug/net8.0/a.pdb
+/home/sycodes95/personal-projects/dotnet-practice-2/obj/Debug/net8.0/a.genruntimeconfig.cache
+/home/sycodes95/personal-projects/dotnet-practice-2/obj/Debug/net8.0/ref/a.dll
