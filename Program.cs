@@ -1,12 +1,25 @@
-﻿namespace Calculator {
+﻿
+
+namespace Calculator {
   class Program {
     static void Main(string[] args) {
-      
-    }
+      bool running = true;
+
+      while (running)
+      {
+        
+
+        var mathAction = Console.ReadLine();
+
+        Console.WriteLine(mathAction);
+
+      }
+    } 
     private static int Total = 0;
 
     public static int Add (int num)
     {
+      Console.WriteLine($"{Total + num}")
       return Total += num;
     }
 
